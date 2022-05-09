@@ -3,9 +3,13 @@ This is the BE-low final ideas, any idea that we have confirmed with the team wi
 1. A breathalyzer that has bluetooth functionality, it will connect to your phone and when using the
 breathalyzer it will display the alchol content on the BE-low app.
 
-2.
+2. When first opening the BE-low app it will show if your device is connected or not, once it is
+connected it will wait for user to blow, once the user blows it will display the reading on users
+phone and if over the alchol limit it will ask if user wants to call an uber, they will be able to 
+turn this function on and off in the app settings.
 
-3.
+3. If the user selects that they want the app to call an uber then it will open the uber app idealy
+with their location and ride already selected.
 
 4.
 

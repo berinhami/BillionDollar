@@ -1,1 +1,19 @@
 This is the BE-low Ideas Text File, any ideas that we have we can input here.
+
+Have a rewards section, so every time they use our app it will give them points 
+that they can buy gift cards with.
+
+Have ads that show at the bottom of the app to get us money to put into those
+rewards. (we may make more money then spent on rewards)
+
+While calling an uber it will play a little gif or maybe a short ad to get extra
+revenue.
+
+When above the drinking limit, if the user decided before hand a block list, it
+will forbid them from messaging the users on the block list.
+
+Partner with bars so when people have our device they can get a discount on alchol,
+we could pay those bars with money we have made from ads or possibly government.
+
+Partner with Insurance compaines so when users use our device they will get a
+discount on their insurance this could be for health and car insurance.
