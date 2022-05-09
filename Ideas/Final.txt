@@ -1,0 +1,12 @@
+This is the BE-low final ideas, any idea that we have confirmed with the team will be listed here.
+
+1. A breathalyzer that has bluetooth functionality, it will connect to your phone and when using the
+breathalyzer it will display the alchol content on the BE-low app.
+
+2.
+
+3.
+
+4.
+
+5.
