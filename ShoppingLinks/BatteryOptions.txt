@@ -3,3 +3,4 @@ per           many
 piece
 1$ | 650mah | Bulk | https://www.alibaba.com/product-detail/Rechargeable-Lipo-Battery-Batteries-Lithium-Polymer_62510573495.html?spm=a2700.galleryofferlist.normal_offer.d_title.248c328bWManDt
 4$ | 550mah | 4lot | https://www.aliexpress.com/item/32918442901.html?spm=a2g0o.search0304.0.0.662c1c1eoZJkxE&algo_pvid=9642c4cc-a778-47ad-bdaf-d0c0cf8cb949&algo_exp_id=9642c4cc-a778-47ad-bdaf-d0c0cf8cb949-15&pdp_ext_f=%7B"sku_id"%3A"66071060208"%7D&pdp_npi=2%40dis%21USD%21%2111.47%21%21%212.11%21%21%400bb0622a16522903655584484e21ad%2166071060208%21sea
+2$ | 400mah | 1    | https://www.aliexpress.com/item/4000453513738.html?spm=a2g0o.search0304.0.0.662c1c1eoZJkxE&algo_pvid=9642c4cc-a778-47ad-bdaf-d0c0cf8cb949&algo_exp_id=9642c4cc-a778-47ad-bdaf-d0c0cf8cb949-12&pdp_ext_f=%7B"sku_id"%3A"10000001853282810"%7D&pdp_npi=2%40dis%21USD%21%211.91%21%21%213.87%21%21%400bb0622a16522903655584484e21ad%2110000001853282810%21sea

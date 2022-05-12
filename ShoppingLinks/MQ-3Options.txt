@@ -1,0 +1,7 @@
+Price   how      link
+per     many 
+piece
+~1.3| ~60-inf | https://www.aliexpress.com/item/32673364909.html?spm=a2g0o.productlist.0.0.161f3e1cpxJi7D&algo_pvid=069ece34-d74e-4063-ab03-065eacd58b81&algo_exp_id=069ece34-d74e-4063-ab03-065eacd58b81-1&pdp_ext_f=%7B"sku_id"%3A"60095011546"%7D&pdp_npi=2%40dis%21USD%21%211.02%21%21%21%21%21%402101d8f416523333711846308e7eca%2160095011546%21sea
+~1.4| ~25-inf | https://www.aliexpress.com/item/3256801435437017.html?spm=a2g0o.productlist.0.0.124b3e1cHVm1Lt&algo_pvid=8ea1593b-b8db-48ec-892b-6517c5cb0f74&aem_p4p_detail=202205112233422230345846620190001039712&algo_exp_id=8ea1593b-b8db-48ec-892b-6517c5cb0f74-0&pdp_ext_f=%7B"sku_id"%3A"12000021231928601"%7D&pdp_npi=2%40dis%21USD%21%211.16%21%21%21%21%21%400bb0623116523336225554070e1d70%2112000021231928601%21sea
+~1.1| 100     | https://www.aliexpress.com/item/32730411034.html?spm=a2g0o.detail.1000014.21.54de406dsHlnVO&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40000.267768.0&scm_id=1007.40000.267768.0&scm-url=1007.40000.267768.0&pvid=591f61e8-4302-440e-9644-a77b95821c0f&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40000.267768.0,pvid:591f61e8-4302-440e-9644-a77b95821c0f,tpp_buckets:668%232846%238116%23999&pdp_ext_f=%7B"sku_id"%3A"61354476162"%2C"sceneId"%3A"30050"%7D&pdp_npi=2%40dis%21USD%21%210.81%21%21%21%21%21%402101d1b916523337160267375e4059%2161354476162%21rec
+
