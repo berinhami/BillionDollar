@@ -2,7 +2,7 @@ const int AOUTpin=0;//the AOUT pin of the alcohol sensor goes into analog pin A0
 const int DOUTpin=8;//the DOUT pin of the alcohol sensor goes into digital pin D8 of the arduino
 const int ledPin=13;//the anode of the LED connects to digital pin D13 of the arduino
 
-
+float printbacvalue;
 int limit;
 int value;
 float bacvalue;
@@ -18,9 +18,11 @@ void loop()
 value= analogRead(AOUTpin)-250;//reads the analaog value from the alcohol sensor's AOUT pin
 bacvalue = (value+.25)/2625;
 Serial.println(bacvalue);
-if(value<200)
+if(bacvalue<0.03)
 {
-    Serial.println("You are sober.");
+    if(bacvalue>-5){
+      printbacvalue = 0;
+      }
 }
 if (value>=200 && value<280)
 {
