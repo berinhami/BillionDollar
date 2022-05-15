@@ -5,18 +5,34 @@ const int ledPin=13;//the anode of the LED connects to digital pin D13 of the ar
 float printbacvalue;
 int limit;
 int value;
+int value1;
+int value2;
+int value3;
+int value4;
+int avgvalue;
 float bacvalue;
 
 void setup() {
 Serial.begin(9600);
 pinMode(DOUTpin, INPUT);//sets the pin as an input to the arduino
 pinMode(ledPin, OUTPUT);//sets the pin as an output of the arduino
-Serial.println("test");
+Serial.println("Calibrating, do not blow yet.");
+delay(1000)
+value= analogRead(AOUTpin);
+delay(500)
+value1= analogRead(AOUTpin);
+delay(500)
+value2= analogRead(AOUTpin);
+delay(500)
+value3= analogRead(AOUTpin);
+delay(500)
+value4= analogRead(AOUTpin);
+avgvalue = (value+value1+value2+value3+value4)/5
 }
 
 void loop()
 {
-value= analogRead(AOUTpin)-250;//reads the analaog value from the alcohol sensor's AOUT pin
+value= analogRead(AOUTpin)-avgvalue;//reads the analaog value from the alcohol sensor's AOUT pin
 bacvalue = (value+.25)/2625;
 Serial.println(bacvalue);
 if(bacvalue<0.03)
