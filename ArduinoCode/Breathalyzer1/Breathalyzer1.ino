@@ -11,23 +11,24 @@ int value3;
 int value4;
 int avgvalue;
 float bacvalue;
+bool isblowing;
 
 void setup() {
 Serial.begin(9600);
 pinMode(DOUTpin, INPUT);//sets the pin as an input to the arduino
 pinMode(ledPin, OUTPUT);//sets the pin as an output of the arduino
 Serial.println("Calibrating, do not blow yet.");
-delay(1000)
+delay(1000);
 value= analogRead(AOUTpin);
-delay(500)
+delay(500);
 value1= analogRead(AOUTpin);
-delay(500)
+delay(500);
 value2= analogRead(AOUTpin);
-delay(500)
+delay(500);
 value3= analogRead(AOUTpin);
-delay(500)
+delay(500);
 value4= analogRead(AOUTpin);
-avgvalue = (value+value1+value2+value3+value4)/5
+avgvalue = (value+value1+value2+value3+value4)/5;
 }
 
 void loop()
@@ -41,6 +42,15 @@ if(bacvalue<0.03)
       printbacvalue = 0;
       }
 }
+if(value > avgvalue + 20){
+  if(value < avgvalue - 20){
+      isblowing == true;
+  }else{
+  Serial.println("Start Blowing");
+  }
+}else{
+  Serial.println("Start Blowing");
+  }
 
 
 delay (500);
