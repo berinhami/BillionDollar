@@ -43,14 +43,17 @@ if(bacvalue<0.03)
       }
 }
 if(value > avgvalue + 20){
-  if(value < avgvalue - 20){
-      isblowing == true;
-  }else{
-  Serial.println("Start Blowing");
-  }
+  isblowing == true;
+  Serial.println(printbacvalue);
 }else{
   Serial.println("Start Blowing");
-  }
+}
+if(value < avgvalue - 20){
+   isblowing == true;
+   Serial.println(printbacvalue);
+}else{
+  Serial.println("Start Blowing");
+}
 
 
 delay (500);
