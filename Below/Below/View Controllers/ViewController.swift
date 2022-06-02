@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    @IBOutlet weak var saveButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
     
@@ -17,6 +19,10 @@ class ViewController: UIViewController {
         
         let vc = storyboard?.instantiateViewController(withIdentifier: "high_bac") as! BacViewController
         present( vc, animated: true)
+    }
+    
+    @IBAction func saveClicked(_ sender: Any) {
+        print("button clicked!")
     }
 
 }

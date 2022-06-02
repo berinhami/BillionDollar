@@ -21,5 +21,3 @@ struct ContentView: View {
 func blow(){
     print("this worked")
 }
-
-blow()
