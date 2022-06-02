@@ -1,0 +1,4 @@
+In early renditions of the breathalyzer we can rely on 3d printing for our prototypes, but later on we will want to speed up production and spend less money on materials,
+this is where injection molding comes in, machines can cost around 1-2k dollars for manual machines, so we will need funding for this to happen, but it is later down the
+line and we will have to look in to it further then, but doing this will reduce time of creating product signifigantly, and this may be something we could have a manufacture
+make.

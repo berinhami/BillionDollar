@@ -25,3 +25,7 @@ I think we should try to have 5 features that we showcase on advertising, those 
 4. Access the Breathalyzer results straight from your phone, making our breathalyzers smaller and easier to use then competitors.
 5. The price of the breathalyzer will be signifigantly lower than competitors. It will cost around 12$ to make and we will charge 
 around 20-30$ in final product. making 8-18$ profit each unit. (we will be making some money off ad revenue and partnerships aswell)
+
+Add silicon skins to your breathalyzer, similar to airpodcases, and these should cost
+around 10-15$ depending on the style, and size.
+
